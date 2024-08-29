@@ -78,7 +78,7 @@ The diagram above illustrates the key stages a service ticket goes through from 
 
 <p><strong>Issue Type:</strong> This categorizes the ticket into predefined types such as Incident, Service Request, Problem, or Change. Each type has its own workflow and resolution process. To add, edit, or view issue types, go to Project Settings > Issue Types.</p>
 
-<img width="600" alt="issue" src="https://i.imgur.com/2ggH1Ue.png">
+<img width="100%" height="100%" alt="issue" src="https://i.imgur.com/2ggH1Ue.png">
 
 <p><strong>.</strong></p>
 <p><strong>.</strong></p>
@@ -95,7 +95,7 @@ The diagram above illustrates the key stages a service ticket goes through from 
 
 <br>
 
-<img width="700" alt="Incident" src="https://i.imgur.com/nX3BVOO.png">
+<img width="100%" height="100%" alt="Incident" src="https://i.imgur.com/nX3BVOO.png">
 
 <p><strong>.</strong></p>
 <p><strong>.</strong></p>
@@ -111,7 +111,7 @@ The diagram above illustrates the key stages a service ticket goes through from 
 
 <br>
 
-<img width="700" alt="prior" src="https://i.imgur.com/w98Ux6F.png">
+<img width="100%" height="100%" alt="prior" src="https://i.imgur.com/w98Ux6F.png">
 
 
 <p><strong>.</strong></p>
