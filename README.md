@@ -34,3 +34,6 @@
 The diagram above illustrates teh key stages a service ticket goes through from start to finish. It begins with "Ticket Creation,"  in which a user reports a problem. Next is "Classification," where the ticket is categorized by its type and priority. "Assignment" follows where the ticket is assigned to the right team and escalating if required. With the right team, then "Resoulution" occurs by fixing the issue. While resolution is occuring, "Communication" with the user/customer is important to provide updates. Lastly, an "Incident Report" is made over the whole situation with "Improvements" if any. A completed ticket would have it marked as resolved as well as closing it. This diagram flow ensures a smooth an organized approach to handling user/customer issues.
 
 <h3>&#9312; Ticket Creation</h3>
+
+<p>The service project portal is a user-friendly web interface designed for customers or employees to submit tickets (also known as requests or issues). Here's how to access and use it:</p>
+
