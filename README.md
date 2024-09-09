@@ -26,7 +26,7 @@
 <h2>Technologies and Environments</h2>
 
 - Jira Service Management
-- Windows 10
+- Windows 11
 
 <h2>Ticket Lifecycle</h2>
 
